@@ -1,6 +1,4 @@
-COMP6200 Data Science Portfolio 
 Priya Chotalia
-45777128
 
 Portfolio 1 is about analysing the cycling data. There are 2 datasets; Strava and Cheetah. Strava is a log of every ride since the start of 2018 and contains summary data like the distance and average speed and Cheetah provides some analytics services over ride data.
 After reading strava and cheetah dataset, next tast was to merge the two data sets so we could get some similar rows and columns. 
